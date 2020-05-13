@@ -25,14 +25,14 @@ It is very important for me to know your opinion about the project, as well as t
 
  Below are some Features for the first version:
 
-1.Support all coins based on GPU (ETH, ZEC, XMR, BTG, ETN, ZEN, ETC, ZCL and others)
-2. CPU mining with XMR and ETN.
-3.Support for different graphics cards. Nvidia and AMD
-4. Switching in 1 click between miners and coins.
-5.Mine on Startup
-6. Automatic restart of the miner in case of failure or accidental closure.
-7. Shark Eye Miner is open source. We do not steal a hashrate like Minergate.
-8. Quick Switch to Pool Account
+- Support all coins based on GPU (ETH, ZEC, XMR, BTG, ETN, ZEN, ETC, ZCL and others)
+- CPU mining with XMR and ETN.
+- Support for different graphics cards. Nvidia and AMD
+-  Switching in 1 click between miners and coins.
+- Mine on Startup
+-  Automatic restart of the miner in case of failure or accidental closure.
+- Shark Eye Miner is open source. We do not steal a hashrate like Minergate.
+- Quick Switch to Pool Account
 
 
 # [](https://github.com/sharkeyeminer/sharkeyeminer#donations)Donations
