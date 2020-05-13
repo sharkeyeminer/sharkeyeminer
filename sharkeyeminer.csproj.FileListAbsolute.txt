@@ -1,0 +1,30 @@
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\OneMiner.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\OneMiner.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\bin\Debug\Shark Eye Miner.exe.config
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\bin\Debug\Shark Eye Miner.exe
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\bin\Debug\Shark Eye Miner.pdb
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddMinerScreen.DefaultMinerMessage.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddMinerScreen.EditMinerContainer.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.Corousal.ProfitabilitySummary.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.Corousal.SettingsSummary.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddDualMiner.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddMiner.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddMinerContainer.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.AddMinerFinish.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.ConfigureMiner.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.Donate.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.ExtraScreens.Help.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.ExtraScreens.KnowMore.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.ExtraScreens.Settings.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.MainForm.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.Properties.Resources.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MiningInfo.GpuView.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MinerInfo.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MinerView.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MiningInfo.MinerInfoLogs.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MiningInfo.MinerInfoScript.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.MiningInfo.MinerInfoSummary.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\SharkEye.View.v1.Profitability.Profitability.resources
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\Shark Eye Miner.exe
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\Shark Eye Miner.pdb
+C:\Users\ASUS\Downloads\OneMiner-master\OneMiner-master\OneMiner\obj\Debug\OneMiner.csprojAssemblyReference.cache
