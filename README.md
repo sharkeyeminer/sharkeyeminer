@@ -40,14 +40,14 @@ It is very important for me to know your opinion about the project, as well as t
 If you would like to support this project, your donations would be greatly appreciated
 
 ### [](https://github.com/sharkeyeminer/sharkeyeminer#bitcoin)Bitcoin
-
+1HeS1VaLVAVp67TtVNkuer8YLD2B2V6EFd
 
 
 ### [](https://github.com/sharkeyeminer/sharkeyeminer#ethereum)Ethereum
-
+0xFDc4aafDd16469936D8625fBB773377519153910 
 
 ### [](https://github.com/sharkeyeminer/sharkeyeminer#litecoin)Litecoin
-
+LMbUDwYVaNCtbMAD8fwhMR79JUAoxafMvn
 
 
 # [](https://github.com/sharkeyeminer/sharkeyeminer#how-to-works)How it Works
